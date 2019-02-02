@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <!-- Resultado -->
+    <string name="resultado_op"> 0 </string>
+
+    <!-- Operadores -->
+    <string name="btn_suma">+</string>
+    <string name="btn_resta">-</string>
+    <string name="btn_multiplicacion">x</string>
+    <string name="btn_division">÷</string>
+    <string name="btn_igual">=</string>
+    <string name="btn_punto">.</string>
+    <string name="btn_limpiar">C</string>
+
+    <!-- Números -->
+    <string name="btn_nueve">9</string>
+    <string name="btn_ocho">8</string>
+    <string name="btn_siete">7</string>
+    <string name="btn_seis">6</string>
+    <string name="btn_cinco">5</string>
+    <string name="btn_cuatro">4</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_dos">2</string>
+    <string name="btn_uno">1</string>
+</resources>
